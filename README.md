@@ -10,7 +10,8 @@ Description: This project analyses US Medical Insurance data to explore the foll
 + Average insurance cost of smokers vs non-smokers.
 + The average age of people with at least 1 child.
 
-[Links to relevant documentation]
+Relevant links:
++ Link to data source: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 MIT License
 
