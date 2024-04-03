@@ -7,6 +7,7 @@ Description: This project analyses US Medical Insurance data to explore the foll
 + Average insurance cost for individuals within the data set.
 + Average BMI of men vs women.
 + Insurance cost vs the BMI of the individual.
++ Average insurance cost of smokers vs non-smokers.
 + The average age of people with at least 1 child.
 
 [Links to relevant documentation]
