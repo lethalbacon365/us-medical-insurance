@@ -2,6 +2,7 @@
 ## Codecademy
 
 Description: This project analyses US Medical Insurance data to explore the following areas of interest:
++ The number of males and females within the data set
 + Average age of individuals within the data set.
 + Average BMI of individuals within the data set.
 + Average insurance cost for individuals within the data set.
